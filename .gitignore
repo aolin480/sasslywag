@@ -35,3 +35,4 @@ wp-content/plugins/*
 wp-content/themes/*
 
 !wp-content/themes/sasslywag/
+!README.md
